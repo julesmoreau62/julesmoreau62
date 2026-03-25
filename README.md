@@ -2,12 +2,11 @@
 <div align="center">
 
 ```
- ██╗██╗   ██╗██╗     ███████╗███████╗    ███╗   ███╗ ██████╗ ██████╗ ███████╗ █████╗ ██╗   ██╗
- ██║██║   ██║██║     ██╔════╝██╔════╝    ████╗ ████║██╔═══██╗██╔══██╗██╔════╝██╔══██╗██║   ██║
- ██║██║   ██║██║     █████╗  ███████╗    ██╔████╔██║██║   ██║██████╔╝█████╗  ███████║██║   ██║
- ██║██║   ██║██║     ██╔══╝  ╚════██║    ██║╚██╔╝██║██║   ██║██╔══██╗██╔══╝  ██╔══██║██║   ██║
- ██║╚██████╔╝███████╗███████╗███████║    ██║ ╚═╝ ██║╚██████╔╝██║  ██║███████╗██║  ██║╚██████╔╝
- ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝    ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝
+     _       _             __  __                         
+    | |_   _| | ___  ___  |  \/  | ___  _ __ ___  __ _ _   _ 
+ _  | | | | | |/ _ \/ __| | |\/| |/ _ \| '__/ _ \/ _` | | | |
+| |_| | |_| | |  __/\__ \ | |  | | (_) | | |  __/ (_| | |_| |
+ \___/ \__,_|_|\___||___/ |_|  |_|\___/|_|  \___|\__,_|\__,_|
 ```
 
 **Sport Management · Esports · AI-Augmented Development**
@@ -36,7 +35,7 @@ Automated competitive intelligence pipeline scraping **35+ international sources
 ### 🌐 [GOTHAM Portfolio](https://github.com/julesmoreau62/gotham-portfolio)
 Personal portfolio with a dark tactical aesthetic — IBM Plex Mono, navy/orange palette, AI crawler accessibility (llms.txt, JSON-LD), and a "How Was It Done?" build process page.
 
-![Portfolio Preview](https://raw.githubusercontent.com/julesmoreau62/gotham-portfolio/main/assets/intro.gif)
+![Portfolio Preview](./intro.gif)
 
 ### 🤖 Sport Management LLM Fine-tuning
 MLX pipeline on Apple Silicon (M4) to fine-tune **Qwen2.5-8B** on a custom sport management JSONL dataset, augmented with **RAG** over an extensive corpus of sport management literature and resources. Served locally via Open WebUI.
