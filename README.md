@@ -36,6 +36,8 @@ Automated competitive intelligence pipeline scraping **35+ international sources
 ### 🌐 [GOTHAM Portfolio](https://github.com/julesmoreau62/gotham-portfolio)
 Personal portfolio with a dark tactical aesthetic — IBM Plex Mono, navy/orange palette, AI crawler accessibility (llms.txt, JSON-LD), and a "How Was It Done?" build process page.
 
+![Portfolio Preview](https://raw.githubusercontent.com/julesmoreau62/gotham-portfolio/main/assets/intro.gif)
+
 ### 🤖 Sport Management LLM Fine-tuning
 MLX pipeline on Apple Silicon (M4) to fine-tune **Qwen2.5-8B** on a custom sport management JSONL dataset, augmented with **RAG** over an extensive corpus of sport management literature and resources. Served locally via Open WebUI.
 
@@ -50,6 +52,7 @@ MLX pipeline on Apple Silicon (M4) to fine-tune **Qwen2.5-8B** on a custom sport
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js)
 ![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![MLX](https://img.shields.io/badge/MLX-Apple%20Silicon-333?style=flat-square&logo=apple&logoColor=white)
 
 ---
@@ -67,7 +70,7 @@ Web Development      █████████████░░░░░░�
 
 ## 🎮 Side quests
 
-- ⚔️ **Overwatch** — Former Top 500 · Currently Grandmaster
+- ⚔️ **Overwatch** — Former Top 500 · Currently Grandmaster · grinding back
 - ⛳ **Golf** · 🏐 **Volleyball** · 📷 Amateur photographer (Sony α6400)
 - 📚 Gibson · Watts · Herbert · Asimov
 
