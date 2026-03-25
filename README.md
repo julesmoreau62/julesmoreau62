@@ -22,9 +22,7 @@
 
 ## 👾 About me
 
-I'm a **M1 Sport Administration student** at Université de Lille (UFR STAPS), specializing in **esports management**. My profile sits at the crossroads of sport business strategy, digital communication, and self-taught AI-augmented development.
-
-Former French Navy Reserve NCO (Second Maître) · NATO Secret clearance · International deployments across French Guiana, New Caledonia & Congo.
+I'm a **M1 Sport Administration student** at Université de Lille (UFR STAPS), specializing in **sport management**. My profile sits at the crossroads of sport business strategy, digital communication, and self-taught AI-augmented development.
 
 > *I don't write code from scratch — I build things that work, using AI as an execution layer.*
 
@@ -39,10 +37,7 @@ Automated competitive intelligence pipeline scraping **35+ international sources
 Personal portfolio with a dark tactical aesthetic — IBM Plex Mono, navy/orange palette, AI crawler accessibility (llms.txt, JSON-LD), and a "How Was It Done?" build process page.
 
 ### 🤖 Sport Management LLM Fine-tuning
-MLX pipeline on Apple Silicon (M4) to fine-tune **Qwen2.5-3B** on a custom 200-example sport management JSONL dataset. Served locally via Open WebUI.
-
-### 📊 BLAST Engine — Strategic Case Study
-23-page "David vs Goliath" B2B SaaS pivot proposal for BLAST ApS, shared with VP James Woollard. Proposed monetization of proprietary broadcast technology as a licensable platform.
+MLX pipeline on Apple Silicon (M4) to fine-tune **Qwen2.5-8B** on a custom sport management JSONL dataset, augmented with **RAG** over an extensive corpus of sport management literature and resources. Served locally via Open WebUI.
 
 ---
 
@@ -73,22 +68,11 @@ Web Development      █████████████░░░░░░�
 ## 🎮 Side quests
 
 - ⚔️ **Overwatch** — Former Top 500 · Currently Grandmaster
-- ⛳ **Golf** · 📷 Amateur photographer (Sony α6400)
+- ⛳ **Golf** · 🏐 **Volleyball** · 📷 Amateur photographer (Sony α6400)
 - 📚 Gibson · Watts · Herbert · Asimov
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Jules's GitHub stats](https://github-readme-stats.vercel.app/api?username=julesmoreau62&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e36d2e&icon_color=e36d2e)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julesmoreau62&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e36d2e)
-
-</div>
-
----
 
 <div align="center">
 
