@@ -33,7 +33,7 @@ Personal portfolio with a dark tactical aesthetic — IBM Plex Mono, navy/orange
 ![Portfolio Preview](./intro.gif)
 
 ### 🤖 Sport Management LLM Fine-tuning
-MLX pipeline on Apple Silicon (M4) to fine-tune **Qwen2.5-8B** on a custom sport management JSONL dataset, augmented with **RAG** over an extensive corpus of sport management literature and resources. Served locally via Open WebUI.
+MLX pipeline on Apple Silicon (M4) to fine-tune **Qwen3.8-27B** on a custom sport management JSONL dataset, augmented with **RAG** over an extensive corpus of sport management literature and resources. Served locally via Open WebUI.
 
 ---
 
